@@ -1,1 +1,1 @@
-# LeNet by torch
+# LeNet by Pytorch
